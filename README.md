@@ -4,7 +4,7 @@ A modern chat application powered by OpenAI's GPT-3.5 and Google's Gemini AI, bu
 
 ## Features
 
-- 🤖 Dual AI Engine Support (OpenAI GPT-3.5 & Google Gemini)
+- 🤖 Dual AI Engine Support (OpenAI GPT-4o & Google Gemini)
 - 🔄 Automatic Fallback System
 - 💬 Multiple Chat Sessions
 - 📱 Responsive Design

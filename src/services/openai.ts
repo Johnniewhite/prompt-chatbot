@@ -13,7 +13,7 @@ export async function getOpenAIChatResponse(message: string) {
         { role: 'system', content: SYSTEM_PROMPT },
         { role: 'user', content: message }
       ],
-      model: 'gpt-3.5-turbo',
+      model: 'gpt-4o',
     });
 
     return completion.choices[0]?.message?.content || '';
