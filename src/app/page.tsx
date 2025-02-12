@@ -112,7 +112,7 @@ export default function Home() {
           </div>
           <div>
             <h1 className="text-white font-semibold">AI Assistant</h1>
-            <p className="text-green-100 text-sm">Built with Love by <a href="https://github.com/johnniewhite" className="underline">Inoluwa Adeyinka</a></p>
+            <p className="text-green-100 text-sm">Built with Love by <a href="https://github.com/johnniewhite" className="underline">Inioluwa Adeyinka</a></p>
           </div>
         </div>
 
