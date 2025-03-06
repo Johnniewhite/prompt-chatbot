@@ -1,7 +1,7 @@
 # AI Chat Assistant
 
 A modern chat application powered by OpenAI's GPT-3.5 and Google's Gemini AI, built with Next.js and TypeScript. This application provides a seamless chat experience with AI, featuring a fallback system between two leading AI models.
-
+https://00df-105-114-3-98.ngrok-free.app
 ## Features
 
 - 🤖 Dual AI Engine Support (OpenAI GPT-4o & Google Gemini)
